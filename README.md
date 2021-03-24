@@ -1,1 +1,2 @@
 # LifeExpectancy
+This project focused on Life Expectancy. This is a data driven approach at suggesting a country that should be given importance in order to efficiently improve life expectancy of its population. I will be building a prediction engine which predicts life expectancy based on various features like status of the country, GDP, Alcohol consumption ect. For this approach, I will be using a Linear Regression model. 
